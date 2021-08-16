@@ -12,3 +12,9 @@ pip install pywin32
 pip install opencv-python
 pip install pywinauto
 ```
+
+and these are the values you change until the screen fits your health bar
+
+```
+left, top, right, bottom = 620, 260, 790, 270
+```
